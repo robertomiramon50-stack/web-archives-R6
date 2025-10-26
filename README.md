@@ -66,5 +66,5 @@ https://github.com/dessant/web-archives/wiki/Search-engines
 
 Copyright (c) 2017-2025 Armin Sebastian
 
-This software is released under the terms of the GNU General Public License v3.0.
+This software is released under the terms of the GNU General Public License v3.0.6
 See the [LICENSE](LICENSE) file for further information.
